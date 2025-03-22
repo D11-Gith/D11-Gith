@@ -7,7 +7,7 @@ Olá Pessoal, eu sou Danilo! Seja Bem vindo ao Meu Repositório.
 
 #👨‍💻 - Curioso em Tecnologia
 
-#😏 - Admirador da Programação back end 💻 e da Cyber Security🔐
+#😏 - Admirador de Security Offensive🔐
 
 
 <div>
