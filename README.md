@@ -1,13 +1,22 @@
-Olá Pessoal, eu sou Danilo! Seja Bem vindo ao Meu Repositório.
+👋 Olá, eu sou o Danilo! 🚀
+Bem-vindo ao meu repositório! Aqui compartilho projetos, automações e ferramentas voltadas para Cyber Security, Red Team, Ethical Hacking e DevSecOps.
 
+🔥 Sobre mim
 
-#👨🏾‍🎓 - Formado em Analise e Desenvolvimento de Sitemas
+- 👨🏾‍🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🛡️ Atuante em Red Team, Ethical Hacking e Pentesting
+- 🖥️ Focado em Application Security & DevSecOps
+- 🐍 Entusiasta de Python e Scripting para automação de segurança
+- 📊 Curioso por análise de dados e otimização de processos
+- 🔐 Defensor da segurança ofensiva e proteção de aplicações
 
-#👨🏾‍🎓 - Atuante de Pentesting
+🚀 O que você vai encontrar aqui?
+- 🔸 Scripts e ferramentas de automação para segurança
+- 🔸 Exploração de vulnerabilidades e técnicas de pentesting
+- 🔸 Projetos voltados para Application Security & DevSecOps
+- 🔸 Experimentos com análise de dados aplicada à segurança
 
-#👨‍💻 - Curioso em Tecnologia
-
-#😏 - Admirador de Security Offensive🔐
+Seja bem-vindo! Fique à vontade para explorar, sugerir melhorias e contribuir. 😃
 
 
 <div>
